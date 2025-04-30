@@ -1,2 +1,2 @@
 # discreteMPC
-discrete-variable Model Predictive Control for real-time contraflow operation. For IEEE2025.
+discrete-variable Model Predictive Control for real-time contraflow operation. Code for IEEE ITSC2025.
